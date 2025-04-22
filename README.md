@@ -16,9 +16,7 @@ Welcome to my GitHub profile! I'm a passionate [your role: developer, data scien
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoranj&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Site-orange?style=flat&logo=github)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaomorandim)
 
 ---
 
