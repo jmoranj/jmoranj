@@ -1,11 +1,11 @@
-# Hi there 👋 I'm João Morandim
+# João Morandim
 
-Welcome to my GitHub profile! I'm a passionate [your role: developer, data scientist, etc.] who loves building cool things with code.  
+Welcome to my GitHub profile! 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: Mind Consulting
+- 🔭 I’m currently working on Mind Consulting as a software engineering intern.
+- 📚 I study System and Anlysis Development at the Sorocaba's University (Uniso)
 
-## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript)
