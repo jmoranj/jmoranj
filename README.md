@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Mind Consulting as a software engineering intern.
-- 📚 I study System and Anlysis Development at the Sorocaba's University (Uniso)
+- 📚 I study System and Anlysis Development at the Sorocaba's University (Uniso).
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=default)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaomorandim)
