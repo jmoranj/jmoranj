@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoranj&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaomorandim)
