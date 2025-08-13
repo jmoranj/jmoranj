@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoranj&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoranj&layout=compact&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=default)
 
