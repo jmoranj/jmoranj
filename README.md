@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Mind Consulting as a software engineering intern.
+- 🔭 I’m currently working on Mind Consulting as a Junior software engineering.
 - 📚 I study System and Anlysis Development at the Sorocaba's University (Uniso).
 
 ## 🛠️ Tech Stack
