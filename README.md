@@ -18,11 +18,13 @@ Welcome to my GitHub profile!
 ![Frameworks](https://img.shields.io/badge/framework-React-informational?style=flat&logo=react)
 <!-- Add or remove badges as needed -->
 
-## 📈 GitHub Stats
+##📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoranj&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=jmoranj&theme=dark&hide_border=false)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoranj&show_icons=true&theme=dark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmoranj&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmoranj&theme=github_dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaomorandim)
