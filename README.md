@@ -1,34 +1,23 @@
-# João Morandim
+# João Gustavo Morandim
 
-Welcome to my GitHub profile! 
+Full-stack software engineer — TypeScript, Node/NestJS, React/Next.js — building LLM features that are measured before they ship. Remote from Sorocaba, Brazil (UTC−3).
 
-## 🚀 About Me
-- 🔭 I’m currently working on Mind Consulting as a Junior software engineering.
-- 📚 I study System and Anlysis Development at the Sorocaba's University (Uniso).
+## What I'm building
 
-## 🛠️ Tech Stack
+**[Job Radar](https://github.com/jmoranj/personal-job-api)** — personal job search over 7 job boards and 400+ company career pages (Rust · Postgres · React · Claude)
+- Claude classifier for jobs keyword rules can't place: **97% vs 67% accuracy** on a 150-job labeled eval, zero eligible jobs wrongly hidden, $0.024 per job
+- Application-prep agent (web search + structured output) with its own eval: drafts with unsupported claims **8/12 → 1/12**
+- MCP server so Claude can search and update the pipeline
+- Dashboard: [personal-job-dash](https://github.com/jmoranj/personal-job-dash)
 
-![TypeScript](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python)
-![Next.js](https://img.shields.io/badge/framework-Next.js-informational?style=flat&logo=next.js)
-![NestJS](https://img.shields.io/badge/framework-NestJS-informational?style=flat&logo=nestjs)
-![Node.js](https://img.shields.io/badge/runtime-Node.js-informational?style=flat&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/style-Tailwind_CSS-informational?style=flat&logo=tailwind-css)
-![Frameworks](https://img.shields.io/badge/framework-React-informational?style=flat&logo=react)
-<!-- Add or remove badges as needed -->
+## At work
 
-##📈 GitHub Stats
+Contractor at Mind Consulting — main developer of **Supercasa**, a real-estate platform: NestJS + Prisma API, Next.js web app, Expo mobile app, Playwright end-to-end tests.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jmoranj&theme=dark&hide_border=false)
+## Stack
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmoranj&theme=github_dark)
+TypeScript · Node.js · NestJS · React · Next.js · React Native/Expo · Prisma · PostgreSQL · MySQL · Redis · Docker · Playwright · Rust · Claude API
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmoranj&theme=github_dark)
+## Contact
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaomorandim)
-
----
-
-
+[LinkedIn](https://www.linkedin.com/in/joaomorandim/) · morandim.joao@gmail.com
